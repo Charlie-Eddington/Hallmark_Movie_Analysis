@@ -1,0 +1,19 @@
+# Raw data files
+*.tsv
+*.tsv.gz
+Actors_Per_Movie.csv
+Hallmark_Movies_2010_2025_2.csv
+hallmark_movies_complete.csv
+hallmark_movies_deduped.csv
+hallmark_movies_with_status_2.csv
+LGBTQ_Movies.csv
+
+# Jupyter
+.ipynb_checkpoints/
+Untitled.ipynb
+
+# macOS
+.DS_Store
+
+# Environment
+.env
